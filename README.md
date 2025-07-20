@@ -86,7 +86,7 @@ The dashboard is divided into **functional panels**, combining multiple advanced
 * **Export Panel:** Allows users to export the dashboard as PDF, PPT, or PNG in multiple layouts.
 
 ---
-#### ✨ **Dashboard Snapshots**
+#### 🖼️ **Dashboard Snapshots**
 
 <img width="1178" height="662" alt="dashboard " src="https://github.com/user-attachments/assets/20e85f06-ba6c-427a-99cd-9b6f76bfcfc9" />
 
@@ -140,5 +140,21 @@ The dashboard is divided into **functional panels**, combining multiple advanced
 ### ✅ **Final Outcome**
 
 A fully functional **Credit Card Complaints Dashboard** that helps any credit card company track, manage, and analyze complaints efficiently — improving customer service, compliance tracking, and operational decisions.
+
+---
+
+## 👤 Author
+
+**Developed by:** SAKSHI PATIL  
+📧 sakshipatil.nine@gmail.com
+
+---
+
+## ⭐ Star This Repo!
+
+If you found this helpful, please **star ⭐ this Repo** and share with your network.  
+Let’s make public health data easy for everyone!
+
+---
 
 
