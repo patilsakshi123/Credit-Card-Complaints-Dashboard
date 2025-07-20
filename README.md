@@ -1,4 +1,4 @@
-# Credit-Card-Complaints-Dashboard
+# Credit Card Complaints Dashboard
 
 ### 🗂️ **Problem Statement**
 
