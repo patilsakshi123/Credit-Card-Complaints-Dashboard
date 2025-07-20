@@ -104,9 +104,7 @@ The dashboard is divided into **functional panels**, combining multiple advanced
 ### 🛠️ **Tools & Techniques Used**
 
 * **Software:** Tableau Desktop Public
-* **Data Source:** Dummy dataset (\~86,000 rows, \~25 columns) generated for practice; no real consumer or company data.
 * **Techniques:**
-
   * Level of Detail (LOD) calculations
   * Dynamic rolling window logic
   * Parameters for sheet swapping & time toggling
@@ -143,13 +141,4 @@ The dashboard is divided into **functional panels**, combining multiple advanced
 
 A fully functional **Credit Card Complaints Dashboard** that helps any credit card company track, manage, and analyze complaints efficiently — improving customer service, compliance tracking, and operational decisions.
 
----
-
-### 📂 **Data Source**
-
-* Dummy dataset prepared for training & practice purposes only.
-* No real company or consumer data used.
-* Source shared as an Excel file for reproducibility.
-
----
 
